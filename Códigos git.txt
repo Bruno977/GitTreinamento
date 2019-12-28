@@ -2,9 +2,10 @@
 
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
+git remote add origin "Link"
 git status
 git add
-git remote add origin "Link"
+git commit -m "Mensagem"
 git push origin  master "Upar c�digo"
 git push -u origin master "Se der que já existe"
 git pull origin master --allow-unrelated-histories "Se der rejected"
