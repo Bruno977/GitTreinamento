@@ -14,3 +14,6 @@ git clone "Clonar c�digo"
 
 git branch "nome da branch"
 git checkout "Nome da branch para mudar"
+
+
+git push origin --delete nome-da-branch
