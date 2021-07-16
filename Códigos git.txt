@@ -2,7 +2,7 @@
 
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
-git remote add origin "Link"
+git remote add origin Link
 git status
 git add .
 git commit -m "Mensagem"
