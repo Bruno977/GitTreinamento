@@ -15,8 +15,8 @@ git pull origin master --allow-unrelated-histories "Se der rejected"
 git pull origin master "Pegar codigo"
 git clone "Clonar codigo"
 
-git branch "nome da branch"
-git checkout "Nome da branch para mudar"
+git branch nome da branch
+git checkout Nome da branch para mudar
 
 
-git push origin --delete nome-da-branch
+git push origin --delete nome-da-branch 
